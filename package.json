@@ -1,0 +1,27 @@
+{
+  "name": "waltion",
+  "version": "0.1.0",
+  "description": "An open-source, local-first, block-based workspace for notes and docs.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.3",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10",
+    "vitest": "^2.1.4"
+  }
+}
