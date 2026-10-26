@@ -9,6 +9,8 @@ of it lives in your browser. There is no account, no server and no tracking.
 > Waltion is an independent project. It is not affiliated with, endorsed by, or derived from
 > the code of Notion Labs, Inc. It is written from scratch under the MIT license.
 
+**Try it in your browser:** https://d-data-alchemist.github.io/Waltion/
+
 ## Features
 
 - **Blocks**: text, three heading levels, bulleted, numbered and to-do lists, quotes, callouts,
